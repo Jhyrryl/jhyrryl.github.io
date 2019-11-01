@@ -1,0 +1,26 @@
+body {
+    background-image: radial-gradient(circle, white, white, skyblue);
+}
+
+h2 {
+    font-variant: small-caps;
+    text-align: center;
+    color: navy;
+}
+
+.social {
+    text-align: center;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+}
+
+.avatar {
+    padding: 10px;
+    border-radius: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
